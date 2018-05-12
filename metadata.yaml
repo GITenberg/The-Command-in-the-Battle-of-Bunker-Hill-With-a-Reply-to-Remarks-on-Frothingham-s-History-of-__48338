@@ -1,10 +1,16 @@
 _repo: The-Command-in-the-Battle-of-Bunker-Hill-With-a-Reply-to-Remarks-on-Frothingham-s-History-of-__48338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48338-h/images/icover.jpg
 creator:
   author:
     agent_name: Frothingham, Richard
     gutenberg_agent_id: '44744'
     url: http://www.gutenberg.org/2009/agents/44744
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48338#The-Command-in-the-Battle-of-Bunker-Hill-With-a-Reply-to-Remarks-on-Frothingham-s-History-of-_
 gutenberg_issued: '2015-02-22'
 gutenberg_type: Text
 identifiers:
